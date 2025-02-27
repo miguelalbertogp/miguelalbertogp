@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @miguelalbertogp
-- 👀 I’m interested in Web and Mobile Development
-- 🌱 I’m currently learning Kotlin, ReactJS
-- 📫 How to reach me: miguelalberto1998@outlook.pt
+- 👀 I’m interested in Photography, Videography, Web and Mobile Development
 
 <!---
 miguelalbertogp/miguelalbertogp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
